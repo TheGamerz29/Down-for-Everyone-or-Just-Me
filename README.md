@@ -17,7 +17,7 @@ Hmmm, why should i use it?😑🙄
 
 Seriously, No spoiler dumby.
 #### How do I compile it?
-1. Get Bat2Exe Converter in my [compiler](https://github.com/TheGamerz29/Compiler) github repository
+1. Get Bat2Exe Converter in my [compiler github repository](https://github.com/TheGamerz29/Compiler)
 
 2. download it and run it.
 
