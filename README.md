@@ -1,12 +1,18 @@
 ![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/main/logo/DFJM.ico)
 # Down-for-Everyone-or-Just-Me
 Have you ever tried to access a website but it does not loads???😭
+
 And you wondered "Is it just me can't access the website?"
+
 Well, I have created this useless project to answer that question.😏
+
 Introducing...
+
 # Down for Everyone or Just Me?
 well, I also asked myself "Why did I wasted my time creating this project?"
+
 Then I answered "I need to do this for the sake of useless things!"
+
 # So, how to use it?
 **Easy! Just run the .exe file!**
 ![Question](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/main/logo/Gitlog.png)
