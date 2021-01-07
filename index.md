@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/main/logo/DFJM.ico)
+# Down-for-Everyone-or-Just-Me
+Have you ever tried to access a website but it does not loads???😭
 
-You can use the [editor on GitHub](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+And you wondered "Is it just me can't access the website?"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Well, I have created this useless project to answer that question.😏
 
-### Markdown
+Introducing...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Down for Everyone or Just Me?
+well, I also asked myself "Why did I wasted my time creating this project?"
 
-```markdown
-Syntax highlighted code block
+Then I answered "I need to do this for the sake of useless things!"
 
-# Header 1
-## Header 2
-### Header 3
+# So, how to use it?
+**Easy! Just run the .exe file!**
+![Question](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/main/logo/newnorm.png)
 
-- Bulleted
-- List
+Hmmm, why should i use it?😑🙄
 
-1. Numbered
-2. List
+>**I _DON'T_ Really _KNOW_!**
 
-**Bold** and _Italic_ and `Code` text
+![hazard](https://github.com/ytisf/theZoo/raw/gh-pages/MalDB-Logo-Thumb.png)
 
-[Link](url) and ![Image](src)
-```
+**Spoiler Ahead**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Seriously, No spoiler dumby.
+#### How do I compile it?
+1. Get Bat2Exe Converter in my [compiler github repository](https://github.com/TheGamerz29/Compiler)
 
-### Jekyll Themes
+2. download it and run it.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. Open the script "Down for Everyone or Just Me.bat" from the menu.
 
-### Support or Contact
+4. The script should appear.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+5. Select Embedded menu.
+
+6. click add.
+
+7. Select all the files except the main script.
+
+8. Credit me 😋
+
+9. click save or hit ctrl + s on your keyboard.
+
+10. click on "Convert" button
+
+The it should start compiling it...
+
+*Haha!*, Wait, **Why** did I *Laughed*?
+
+> I DON'T REALLY KNOW!!!!
+
+Well, Just D0wNlOad this Pr0Jext Or F0RK THis *My keyboard are DruNk*
