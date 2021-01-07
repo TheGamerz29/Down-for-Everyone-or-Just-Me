@@ -1,4 +1,4 @@
-![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/imgbot/logo/DFJM.ico)
+![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/gh-pages/DFJM.ico)
 # Down-for-Everyone-or-Just-Me
 Have you ever tried to access a website but it does not loads???😭
 
