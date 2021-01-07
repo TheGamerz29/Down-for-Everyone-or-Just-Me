@@ -1,4 +1,4 @@
-![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/main/logo/DFJM.ico)
+![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/imgbot/logo/DFJM.ico)
 # Down-for-Everyone-or-Just-Me
 Have you ever tried to access a website but it does not loads???😭
 
@@ -15,7 +15,7 @@ Then I answered "I need to do this for the sake of useless things!"
 
 # So, how to use it?
 **Easy! Just run the .exe file!**
-![Question](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/main/logo/newnorm.png)
+![Question](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/gh-pages/newnorm.png)
 
 Hmmm, why should i use it?😑🙄
 
