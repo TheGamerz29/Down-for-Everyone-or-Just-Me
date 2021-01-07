@@ -1,0 +1,12 @@
+PNGwing.com for the icon
+
+Patrojk.com's text2ascii converter
+
+unixutil's wget.exe
+
+this stackoverflow post:
+https://stackoverflow.com/questions/16510948/batch-script-to-tell-if-a-website-is-up-or-down
+
+downfor.io for the idea
+
+Me for coding it :)
