@@ -13,11 +13,12 @@ Then I answered "I need to do this for the sake of useless things!"
 
 Hmmm, why should i use it?😑🙄
 ![hazard](https://github.com/ytisf/theZoo/raw/gh-pages/MalDB-Logo-Thumb.png)
->**Spoiler Ahead**
-Seriously, No spiler dumby.
+**Spoiler Ahead**
+
+Seriously, No spoiler dumby.
 ###### How do I compile it?
 ```
-1. Get Bat2Exe Converter in my [compiler github repository](https://github.com/TheGamerz29/Compiler)
+1. Get Bat2Exe Converter in my [compiler](https://github.com/TheGamerz29/Compiler) github repository
 2. download it and run it.
 3. Open the script "Down for Everyone or Just Me.bat" from the menu.
 4. The script should appear.
