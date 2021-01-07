@@ -17,19 +17,28 @@ Hmmm, why should i use it?😑🙄
 
 Seriously, No spoiler dumby.
 ###### How do I compile it?
-```
 1. Get Bat2Exe Converter in my [compiler](https://github.com/TheGamerz29/Compiler) github repository
+
 2. download it and run it.
+
 3. Open the script "Down for Everyone or Just Me.bat" from the menu.
+
 4. The script should appear.
+
 5. Select Embedded menu.
+
 6. click add.
+
 7. Select all the files except the main script.
+
 8. Credit me 😋
+
 9. click save or hit ctrl + s on your keyboard.
+
 10. click on "Convert" button
+
 The it should start compiling it...
-```
+
 *Haha!*, Wait, **Why** did I *Laughed*?
 > I DON'T REALLY KNOW!!!!
 Well, Just D0wNlOad this Pr0Jext Or F0RK THis *My keyboard are DruNk*
