@@ -16,7 +16,7 @@ Hmmm, why should i use it?😑🙄
 **Spoiler Ahead**
 
 Seriously, No spoiler dumby.
-###### How do I compile it?
+#### How do I compile it?
 1. Get Bat2Exe Converter in my [compiler](https://github.com/TheGamerz29/Compiler) github repository
 
 2. download it and run it.
