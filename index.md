@@ -1,4 +1,4 @@
-![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/gh-pages/raw/DFJM.ico)
+![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/raw/gh-pages/raw/DFJM.ico)
 # Down-for-Everyone-or-Just-Me
 Have you ever tried to access a website but it does not loads???😭
 
@@ -15,7 +15,7 @@ Then I answered "I need to do this for the sake of useless things!"
 
 # So, how to use it?
 **Easy! Just run the .exe file!**
-![Question](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/blob/gh-pages/raw/newnorm.png)
+![Question](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/raw/gh-pages/raw/newnorm.png)
 
 Hmmm, why should i use it?😑🙄
 
@@ -53,10 +53,6 @@ The it should start compiling it...
 
 > I DON'T REALLY KNOW!!!!
 
-Well, Just D0wNlOad this Pr0Jext Or F0RK THis *My keyboard are DruNk*
+Well, Just D0wNlOad this Pr0Jext Or F0RK THis. 
 
->Important!
-
-Windows Defender and several anti-virus detects this as Trojan:Win32/Wacatac.D6!ml. I can assure that this program is safe.
-
-Please turn off your anti-virus before using this program.
+>*My keyboard are DruNk*
