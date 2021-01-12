@@ -60,3 +60,5 @@ Well, Just D0wNlOad this Pr0Jext Or F0RK THis *My keyboard are DruNk*
 Windows Defender and several anti-virus detects this as Trojan:Win32/Wacatac.D6!ml. I can assure that this program is safe.
 
 Please turn off your anti-virus before using this program.
+
+> **SIKE**
