@@ -1,0 +1,1 @@
+Pls Download wget in my compiler repository, you must have it because it's crucial.
